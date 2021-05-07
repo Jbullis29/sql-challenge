@@ -12,6 +12,8 @@ This was a fun project utilizing all that we have learned including:
 * Created new SQL table with combined data I though was relevant
 * Connected PostgreSQL servers to my Jupyter Notebook and preformed more data analysis in Jupyter
 # Findings
-* More than 22k employees were hired in 1986 (thats in insane)
+* More than 22k employees were hired in 1986 (thats insane)
 * There are only 24 managers in the whole company and over 40k employee records (thats also insane)
-*  20 Employees have the first name hercules and also have a last name that starts with B (all the last names are suspiciously similar)
+*  20 Employees have the first name Hercules and also have a last name that starts with B (all the last names are suspiciously similar)
+* There ar 137952 (combined total) employees in sales and develpement deaprtments 
+* The last name that is most prevelant in the company is Baba with a total of 226 employees sharing that last name
